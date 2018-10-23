@@ -1,6 +1,6 @@
 {
   "name": "is-odd-no-deps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "satirical is-odd clone but with 0 dependencies",
   "main": "index.js",
   "scripts": {
