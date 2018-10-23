@@ -1,0 +1,26 @@
+{
+  "name": "is-odd-no-deps",
+  "version": "1.0.0",
+  "description": "satirical is-odd clone but with 0 dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weston-Boldt/is-odd-no-deps.git"
+  },
+  "keywords": [
+    "integer",
+    "is",
+    "math",
+    "odd",
+    "string"
+  ],
+  "author": "weston-boldt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weston-Boldt/is-odd-no-deps/issues"
+  },
+  "homepage": "https://github.com/Weston-Boldt/is-odd-no-deps#readme"
+}
