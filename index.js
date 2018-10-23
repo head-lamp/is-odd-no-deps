@@ -1,11 +1,11 @@
 'use strict';
 
 module.exports = function isOdd(value) {
-    let parsed = parseInt(value);
+    let number = Math.abs(value);
     // not a number ?
     // definitely not a odd integer then
-    if (isNaN(parsed)) {
+    if (isNaN(number)) {
         return false;
     }
-    return Boolean( parsed & 1 );
+    return Boolean( number & 1 );
 }
